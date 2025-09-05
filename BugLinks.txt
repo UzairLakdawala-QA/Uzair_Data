@@ -1,0 +1,42 @@
+- Security Department : 
+(1.) 
+- Tank Entry : https://prnt.sc/HX4YuTQVoOLB
+1. (out tab ke data ki row excle ki row se proper list me nahi hai)
+
+(2.)
+- General Vehicle : https://prnt.sc/RFYdj3RtV2a9
+- Visitor : https://prnt.sc/6Ek6OvO537_w
+1.(IN or OUT dono ke tabs counts change nahi ho rahe)
+
+- General Vehicle : https://prnt.sc/8iAq4BGG5iWD
+- Visitor : https://prnt.sc/Q0t8qhxY0r-M
+1.(IN or OUT dono ke tabs ke alag alag export file download ho rahi hai)
+
+(3.)
+- Suraksha Entry : https://prnt.sc/toT7s1laD426
+1. (Filters(certificate type) rakha hai, kese pata chalega ki konsa hai)
+                                (Not show in colum Data) (all queue,in,out,rejected)
+
+---------------------------------------------------------------------------------------------
+
+- Suraksha Certificate Department :
+(1.)
+- Suraksha Certificate : https://prnt.sc/YAfldnbjKEIB
+- OTS Certificate : https://prnt.sc/bcevGuBZbtUI
+1. (in dono ke complete tab ke data ki row excle file ki row se proper list me nahi hai)
+
+---------------------------------------------------------------------------------------------
+
+- ISO Department : 
+(1.)
+- ISO/Service Reports : 
+1. from to to calanderbar : https://prnt.sc/kaYv7bwdAkSs (tanks report ke data ki row excle file ki row se proper list me nahi hai)
+2. searchbar : https://prnt.sc/x1ZM0kxTsMIz (jo bhi search karte vo nahi hota)
+
+---------------------------------------------------------------------------------------------
+
+- Accounts Department :
+(1.)
+- Account - ISO : https://prnt.sc/YWN6383bnix4
+- Account - Service : https://prnt.sc/IMWgII-5qlx8
+1. (pending or completed tabs me counts change nahi ho rahe)
